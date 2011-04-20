@@ -644,6 +644,126 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="MARKDOWN.BOLD_TEXT">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.IMAGE">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.ITALIC_TEXT">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.LINK">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="MARKDOWN.PLAIN_TEXT">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />

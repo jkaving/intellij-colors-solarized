@@ -27,6 +27,96 @@ Issues, bug reports, changelogs are centralized at the main [Solarized repositor
 [Solarized repository]: https://github.com/altercation/solarized
 [IntelliJ-only repository]:  https://github.com/jkaving/intellij-colors-solarized
 
+Status
+------------
+
+These color scheme files are primarily tested with IntelliJ IDEA Community Edition 10.0.3.
+They might work with other versions of IntelliJ IDEA as well as other JetBrains tools
+(e.g. PhpStorm and PyCharm).
+
+This table lists the languages (and other sections under `Preferences | Editor | Colors & Fonts`)
+for which the syntax highlighting has been adapted to the Solarized color scheme:
+
+<table>
+    <tr>
+        <th>Language/Section</th>
+        <th>Supported</th>
+    </tr>
+	<tr>
+		<td>General</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Java</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Groovy</td>
+		<td align="center">No</td>
+	</tr>
+	<tr>
+		<td>Scala</td>
+		<td align="center"><i>Only Solarized Dark</i></td>
+	</tr>
+	<tr>
+		<td>Python</td>
+		<td align="center">No</td>
+	</tr>
+	<tr>
+		<td>PHP</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>XML</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>HTML</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>RegExp</td>
+		<td align="center"><i>Only Solarized Dark</i></td>
+	</tr>
+	<tr>
+		<td>Bash</td>
+		<td align="center"><i>Only Solarized Dark</i></td>
+	</tr>
+	<tr>
+		<td>Markdown</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Custom</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Debugger</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>XPath</td>
+		<td align="center">No</td>
+	</tr>
+	<tr>
+		<td>Properties</td>
+		<td align="center"><i>Only Solarized Dark</i></td>
+	</tr>
+	<tr>
+		<td>Android Logcat</td>
+		<td align="center">No</td>
+	</tr>
+	<tr>
+		<td>Diff</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>File Status</td>
+		<td align="center">No</td>
+	</tr>
+</table>
+
+
 Installation
 ------------
 

@@ -60,7 +60,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 	</tr>
 	<tr>
 		<td>Python</td>
-		<td align="center">No</td>
+		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
 		<td>PHP</td>

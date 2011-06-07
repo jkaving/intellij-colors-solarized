@@ -371,8 +371,8 @@
         <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="db312e" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -1011,7 +1011,7 @@
         <option name="FOREGROUND" value="2aa198" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="db312e" />
+        <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
@@ -1188,10 +1188,10 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="db312e" />
+        <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
@@ -2249,7 +2249,7 @@
     <option name="Scala Invalid escape in string">
       <value>
         <option name="FOREGROUND" value="d33682" />
-        <option name="BACKGROUND"  />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -2268,7 +2268,7 @@
     </option>
     <option name="Scala Line comment">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -2758,10 +2758,10 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="db312e" />
+        <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>

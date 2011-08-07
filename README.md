@@ -114,6 +114,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td>File Status</td>
 		<td align="center">No</td>
 	</tr>
+	<tr>
+		<td>Google Go</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
 </table>
 
 

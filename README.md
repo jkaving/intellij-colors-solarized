@@ -118,6 +118,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td>Google Go</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
+	<tr>
+		<td>Coffeescript</td>
+		<td align="center"><i>Only Solarized Dark</i></td>
+	</tr>
 </table>
 
 

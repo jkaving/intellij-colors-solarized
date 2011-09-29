@@ -11,18 +11,18 @@
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="GUTTER_BACKGROUND" value="73642" />
-    <option name="INDENT_GUIDE" value="" />
+    <option name="INDENT_GUIDE" value="73642" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
-    <option name="METHOD_SEPARATORS_COLOR" value="586e75" />
+    <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
-    <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="586e75" />
+    <option name="SELECTED_TEARLINE_COLOR" value="839496" />
     <option name="SELECTION_BACKGROUND" value="73642" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="73642" />
+    <option name="TEARLINE_COLOR" value="586e75" />
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
@@ -438,8 +438,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="73642" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="1" />

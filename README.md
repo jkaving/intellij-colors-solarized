@@ -76,7 +76,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 	</tr>
 	<tr>
 		<td>RegExp</td>
-		<td align="center"><i>Only Solarized Dark</i></td>
+		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
 		<td>Bash</td>

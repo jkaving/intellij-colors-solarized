@@ -126,6 +126,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
         <td>Apache Config</td>
         <td align="center"><b>Yes</b></td>
     </tr>
+    <tr>
+        <td>Gherkin (Cucumber)</td>
+        <td align="center"><b>Yes</b></td>
+    </tr>
 </table>
 
 

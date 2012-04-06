@@ -666,6 +666,36 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="GHERKIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="59eed" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+      <value>
+        <option name="FOREGROUND" value="59eed" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="GHERKIN_TAG">
+      <value>
+        <option name="FOREGROUND" value="d13681" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />

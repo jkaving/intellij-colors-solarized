@@ -75,6 +75,14 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
+		<td>LESS</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>JSP</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
 		<td>RegExp</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>

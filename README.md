@@ -130,6 +130,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
         <td>Gherkin (Cucumber)</td>
         <td align="center"><b>Yes</b></td>
     </tr>
+	<tr>
+		<td>Objective-C</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
 </table>
 
 

@@ -183,6 +183,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
+		<td>Objective-C</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
 		<td>PHP</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>

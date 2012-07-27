@@ -38,56 +38,52 @@ This table lists the languages (and other sections under `Preferences | Editor |
 for which the syntax highlighting has been adapted to the Solarized color scheme:
 
 <table>
-    <tr>
-        <th>Language/Section</th>
-        <th>Supported</th>
-    </tr>
 	<tr>
-		<td>General</td>
+		<th>Language/Section</th>
+		<th>Supported</th>
+	</tr>
+	<tr>
+		<td>Android Logcat</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Java</td>
+		<td>Apache Config</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Groovy</td>
+		<td>BEMHTML</td>
 		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>Scala</td>
-		<td align="center"><i>Only Solarized Dark</i></td>
-	</tr>
-	<tr>
-		<td>Python</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>PHP</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>XML</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>HTML</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>RegExp</td>
-		<td align="center"><i>Only Solarized Dark</i></td>
 	</tr>
 	<tr>
 		<td>Bash</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Markdown</td>
+		<td>Buildout config</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Custom</td>
+		<td>CMD</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>CSS</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Clojure Templates</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>CoffeeScript</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Custom Templates</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Dart</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -95,24 +91,148 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>XPath</td>
-		<td align="center">No</td>
-	</tr>
-	<tr>
-		<td>Properties</td>
-		<td align="center"><i>Only Solarized Dark</i></td>
-	</tr>
-	<tr>
-		<td>Android Logcat</td>
-		<td align="center">No</td>
-	</tr>
-	<tr>
 		<td>Diff</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
+		<td>Django/Jinja2 Template</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Erlang</td>
+		<td align="center"><b>Yes</b></td>
+	 </tr>
+	 <tr>
 		<td>File Status</td>
 		<td align="center">No</td>
+	</tr>
+	<tr>
+		<td>General</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+    <tr>
+        <td>Gherkin (Cucumber)</td>
+        <td align="center"><b>Yes</b></td>
+    </tr>
+	<tr>
+		<td>Google Go</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>GQL</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Groovy</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>HAML</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>HTML</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Haskell</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>JFlex</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Java</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>JavaScript</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>LESS</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>JSP</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Jodd props file</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>LESS</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Localization file</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Lua</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Mako Template</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Markdown</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Objective-C</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>PHP</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Properties</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Python</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>ReST file</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>RegExp</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>SASS</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>SQL</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Scala</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Tea</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>XML</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>XPath</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>YAML</td>
+		<td align="center"><b>Yes</b></td>
 	</tr>
 </table>
 
@@ -133,9 +253,16 @@ color themes.
 ### Option 2: Manual installation
 
 1.  Copy `Solarized Dark.xml` and `Solarized Light.xml` to your IntelliJ IDEA preferences
-color directory.  
-On Mac OS X this is typically located in `~/Library/Preferences/IntelliJIdea10/colors` or `~/Library/Preferences/IntelliJIdea10CE/colors` (for the Community Edition).  
-On Windows it is in `Documents and Settings/<user>/.IntelliJIdea10/config/colors`.
+    color directory. The directory varies, depending on which JetBrains IDE you are using. It
+    is typically in:
+
+    *Mac OS X*
+    * `~/Library/Preferences/IntelliJIdea10/colors` (IntelliJ IDEA)
+    * `~/Library/Preferences/IntelliJIdea10CE/colors` (IntelliJ IDEA Community Edition),
+    * `~/Library/Preferences/WebIDE10/colors` (WebIDE or PHPStorm).
+
+    *Windows*
+    * `Documents and Settings/<user>/.IntelliJIdea10/config/colors` (IntelliJ IDEA)
         
 2. Restart IntelliJ IDEA
 
@@ -150,6 +277,6 @@ after adding the color schemes to your IntelliJ IDEA installation.
 
 Note About Committing Changes
 -----------------------------
-If you want to commit updates to the XML color scheme files, make sure to run the `buildjar.sh` script before committing to generate 
+If you want to commit updates to the XML color scheme files, make sure to run the `buildjar.sh` or `buildjar.bat` script before committing to generate 
 an updated `settings.jar` file as well. 
-*The script has been tested on OS X, on other operating systems you're on your own.*
+*The scripts have been tested on OS X and Windows, on other operating systems you're on your own.*

@@ -23,7 +23,7 @@
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
     <option name="TEARLINE_COLOR" value="586e75" />
-    <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES" value="586e75" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

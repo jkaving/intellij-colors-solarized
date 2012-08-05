@@ -151,6 +151,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
+		<td>Kotlin</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
 		<td>LESS</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>

@@ -1918,11 +1918,11 @@
     </option>
     <option name="JS.BADCHARACTER">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="d33682" />
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -2021,8 +2021,8 @@
         <option name="FOREGROUND" value="dc322f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>

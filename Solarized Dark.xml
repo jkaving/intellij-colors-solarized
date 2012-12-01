@@ -5256,6 +5256,96 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="TWIG_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_BAD_CHARACTER">
+      <value>
+          <option name="FOREGROUND" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" value="dc322f" />
+          <option name="EFFECT_TYPE" value="2" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+          <option name="FOREGROUND" value="dc322f" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_COMMENT">
+      <value>
+          <option name="FOREGROUND" value="586e75" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="2" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+          <option name="FOREGROUND" value="268bd2" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+          <option name="FOREGROUND" value="859900" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_NUMBER">
+      <value>
+          <option name="FOREGROUND" value="2aa198" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value>
+          <option name="FOREGROUND" value="859900" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+          <option name="FOREGROUND" value="2aa198" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="TYPEDEF">
       <value>
         <option name="FOREGROUND" value="b38700" />

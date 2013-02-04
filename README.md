@@ -43,15 +43,16 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<th>Supported</th>
 	</tr>
 	<tr>
-		<td>Android Logcat</td>
+		<td><a href="http://developer.android.com/tools/help/logcat.html">Android
+Logcat</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Apache Config</td>
+		<td><a href="http://httpd.apache.org">Apache Config</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>BEMHTML</td>
+		<td><a href="https://github.com/bem/bemhtml">BEMHTML</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -59,7 +60,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Buildout config</td>
+		<td><a href="http://www.buildout.org">Buildout config</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -75,7 +76,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>CoffeeScript</td>
+		<td><a href="http://coffeescript.org">CoffeeScript</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -83,7 +84,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Dart</td>
+		<td><a href="http://www.dartlang.org">Dart</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -95,11 +96,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Django/Jinja2 Template</td>
+		<td><a href="https://www.djangoproject.com">Django</a>/<a href="http://jinja.pocoo.org/docs/">Jinja2 Template</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Erlang</td>
+		<td><a href="http://www.erlang.org">Erlang</a></td>
 		<td align="center"><b>Yes</b></td>
 	 </tr>
 	 <tr>
@@ -111,11 +112,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
     <tr>
-        <td>Gherkin (Cucumber)</td>
+        <td><a href="http://cukes.info">Gherkin (Cucumber)</a></td>
         <td align="center"><b>Yes</b></td>
     </tr>
 	<tr>
-		<td>Google Go</td>
+		<td><a href="http://code.google.com/p/go/">Google Go</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -123,11 +124,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Groovy</td>
+		<td><a href="http://groovy.codehaus.org">Groovy</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>HAML</td>
+		<td><a href="http://haml.info">HAML</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -135,11 +136,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Haskell</td>
+		<td><a href="http://www.haskell.org">Haskell</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>JFlex</td>
+		<td><a href="http://jflex.de">JFlex</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -151,23 +152,19 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Kotlin</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>LESS</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
 		<td>JSP</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Jodd props file</td>
+		<td><a href="http://jodd.org/doc/props.html">Jodd props file</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>LESS</td>
+		<td><a href="http://kotlin.jetbrains.org">Kotlin</a></td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td><a href="http://lesscss.org">LESS</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -175,15 +172,15 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Lua</td>
+		<td><a href="http://www.lua.org">Lua</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Mako Template</td>
+		<td><a href="http://www.makotemplates.org">Mako Template</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Markdown</td>
+		<td><a href="http://daringfireball.net/projects/markdown/">Markdown</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -211,7 +208,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>SASS</td>
+		<td><a href="http://sass-lang.com">SASS</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -219,7 +216,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Scala</td>
+		<td><a href="http://www.scala-lang.org">Scala</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -227,7 +224,7 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>Twig</td>
+		<td><a href="http://twig.sensiolabs.org">Twig</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
@@ -235,11 +232,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>XPath</td>
+		<td><a href="http://www.w3.org/TR/xpath/">XPath</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
-		<td>YAML</td>
+		<td><a href="http://www.yaml.org">YAML</a></td>
 		<td align="center"><b>Yes</b></td>
 	</tr>
 </table>

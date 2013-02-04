@@ -30,7 +30,7 @@ Issues, bug reports, changelogs are centralized at the main [Solarized repositor
 Status
 ------------
 
-These color scheme files are primarily tested with IntelliJ IDEA Community Edition 10.0.3.
+These color scheme files are primarily tested with IntelliJ IDEA 12 Community Edition.
 They might work with other versions of IntelliJ IDEA as well as other JetBrains tools
 (e.g. PhpStorm and PyCharm).
 
@@ -262,12 +262,12 @@ color themes.
     is typically in:
 
     *Mac OS X*
-    * `~/Library/Preferences/IntelliJIdea10/colors` (IntelliJ IDEA)
-    * `~/Library/Preferences/IntelliJIdea10CE/colors` (IntelliJ IDEA Community Edition),
-    * `~/Library/Preferences/WebIDE10/colors` (WebIDE or PHPStorm).
+    * `~/Library/Preferences/IntelliJIdea12/colors` (IntelliJ IDEA 12 Ultimate Edition)
+    * `~/Library/Preferences/IdeaIC12/colors` (IntelliJ IDEA 12 Community Edition),
+    * `~/Library/Preferences/WebIDE50/colors` (PHPStorm 5.0).
 
     *Windows*
-    * `Documents and Settings/<user>/.IntelliJIdea10/config/colors` (IntelliJ IDEA)
+    * `Documents and Settings/<user>/.IdeaIC12/config/colors` (IntelliJ IDEA 12 Community Edition)
         
 2. Restart IntelliJ IDEA
 

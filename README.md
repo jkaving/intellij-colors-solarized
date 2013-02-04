@@ -227,6 +227,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td align="center"><b>Yes</b></td>
 	</tr>
 	<tr>
+		<td>Twig</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
 		<td>XML</td>
 		<td align="center"><b>Yes</b></td>
 	</tr>

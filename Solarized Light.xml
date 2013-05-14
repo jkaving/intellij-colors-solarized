@@ -4,7 +4,7 @@
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
     <option name="CARET_COLOR" value="dc322f" />
@@ -14,7 +14,7 @@
     <option name="INDENT_GUIDE" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
-    <option name="MODIFIED_LINES_COLOR" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="bccff9" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="eee8d5" />

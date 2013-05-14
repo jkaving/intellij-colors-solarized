@@ -4866,6 +4866,16 @@
           <option name="ERROR_STRIPE_COLOR" />
         </value>
       </option>
+      <option name="Scala Class">
+        <value>
+          <option name="FOREGROUND" value="b58900" />
+          <option name="BACKGROUND" />
+          <option name="FONT_TYPE" value="0" />
+          <option name="EFFECT_COLOR" />
+          <option name="EFFECT_TYPE" value="0" />
+          <option name="ERROR_STRIPE_COLOR" />
+        </value>
+      </option>
       <option name="Scala Class method call">
         <value>
           <option name="FOREGROUND" value="268bd2" />
@@ -4888,9 +4898,9 @@
       </option>
       <option name="Scala Keyword">
         <value>
-          <option name="FOREGROUND" value="b58900" />
+          <option name="FOREGROUND" value="93a1a1" />
           <option name="BACKGROUND" />
-          <option name="FONT_TYPE" value="0" />
+          <option name="FONT_TYPE" value="1" />
           <option name="EFFECT_COLOR" />
           <option name="EFFECT_TYPE" value="0" />
           <option name="ERROR_STRIPE_COLOR" />

@@ -5076,6 +5076,12 @@
           <option name="ERROR_STRIPE_COLOR" />
         </value>
       </option>
+      <option name="Scala XML Text">
+        <value>
+          <option name="FOREGROUND" value="2aa198" />
+          <option name="FONT_TYPE" value="1" />
+        </value>
+      </option>
       <option name="ScalaDoc comment">
         <value>
           <option name="FOREGROUND" value="93a1a1" />

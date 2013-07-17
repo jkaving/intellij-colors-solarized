@@ -15,11 +15,11 @@
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
-    <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
+    <option name="NOTIFICATION_BACKGROUND" value="2b36" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
-    <option name="SELECTED_TEARLINE_COLOR" value="839496" />
+    <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
     <option name="TEARLINE_COLOR" value="586e75" />
@@ -206,6 +206,12 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -246,6 +252,12 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -254,6 +266,21 @@
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
+      <value>
+        <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.FUNCTION_BINDING">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
@@ -276,6 +303,12 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.JAVASCRIPT_ID">
+      <value>
+        <option name="FOREGROUND" value="d13681" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.KEYWORD">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -296,9 +329,14 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.NUMBER">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -336,6 +374,12 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.REGULAR_EXPRESSION_FLAG">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_ID">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -364,6 +408,22 @@
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.STRING">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.STRING_LITERAL">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.THIS">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">

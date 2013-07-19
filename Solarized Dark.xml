@@ -3434,6 +3434,11 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="PHP_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="859900" />

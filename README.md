@@ -11,17 +11,14 @@ Visit the [Solarized homepage]
 ------------------------------
 
 See the [Solarized homepage] for screenshots, 
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
-other applications.
+details and color scheme versions for Vim, Mutt, popular terminal emulators and 
+other applications. These versions can also be found in the main [Solarized repository] 
+on GitHub.
 
-Downloads
----------
+Unfortunately the IntelliJ subtree in the main repository has not been updated and is out-of-sync with this
+repository.
 
-If you have come across this colorscheme via the [IntelliJ-only repository] on 
-github see the link above to the Solarized homepage or visit the main [Solarized repository].
-
-The [IntelliJ-only repository] is kept in sync with the main [Solarized repository].
-Issues, bug reports, changelogs are centralized at the main [Solarized repository].
+For IntelliJ this [IntelliJ-only repository] is therefore recommended over the main repository.
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized

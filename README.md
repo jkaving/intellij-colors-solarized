@@ -27,7 +27,7 @@ For IntelliJ this [IntelliJ-only repository] is therefore recommended over the m
 Status
 ------------
 
-These color scheme files are primarily tested with IntelliJ IDEA 12 Community Edition.
+These color scheme files are primarily tested with the latest version of IntelliJ IDEA Community Edition.
 They might work with other versions of IntelliJ IDEA as well as other JetBrains tools
 (e.g. PhpStorm and PyCharm).
 

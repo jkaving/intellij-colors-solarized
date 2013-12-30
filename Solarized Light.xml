@@ -5187,6 +5187,11 @@
           <option name="ERROR_STRIPE_COLOR" />
         </value>
       </option>
+      <option name="SMARTY_IDENTIFIER">
+        <value>
+          <option name="BACKGROUND" value="eee8d5" />
+        </value>
+      </option>
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b58900" />

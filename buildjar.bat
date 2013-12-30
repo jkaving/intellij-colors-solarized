@@ -1,8 +1,8 @@
 mkdir .\colors
-copy "Solarized Light.xml" .\colors
-copy "Solarized Dark.xml" .\colors
-copy "Solarized Light.xml" ".\colors\Solarized Light.icls"
-copy "Solarized Dark.xml" ".\colors\Solarized Dark.icls"
+copy "Solarized Light.icls" .\colors
+copy "Solarized Dark.icls" .\colors
+copy "Solarized Light.icls" ".\colors\Solarized Light.xml"
+copy "Solarized Dark.icls" ".\colors\Solarized Dark.xml"
 copy /y nul .\"IntelliJ IDEA Global Settings"
 
 jar cfM settings.jar "IntelliJ IDEA Global Settings" .\colors

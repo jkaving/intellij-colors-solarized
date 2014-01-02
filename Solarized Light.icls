@@ -32,6 +32,22 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="APACHE_CONFIG.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="APACHE_CONFIG.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="b58800" />
@@ -53,28 +69,6 @@
     <option name="Atom">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="APACHE_CONFIG.ARG_LEXEM">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="APACHE_CONFIG.COMMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="APACHE_CONFIG.IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="Annotation">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -175,6 +169,11 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
     <option name="BUILDOUT.KEY">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -196,11 +195,6 @@
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="BREAKPOINT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="Block comment">
@@ -968,9 +962,56 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GQL_ID">
+    <option name="GHERKIN_COMMENT">
       <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="GHERKIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GHERKIN_PYSTRING">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="GHERKIN_REGEXP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_CELL">
+      <value>
+        <option name="FOREGROUND" value="297bde" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_HEADER_CELL">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="GHERKIN_TAG">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="GQL_ID">
+      <value />
     </option>
     <option name="GQL_INT_LITERAL">
       <value>
@@ -1129,6 +1170,12 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="IVAR">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="Instance field">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1149,12 +1196,6 @@
         <option name="FOREGROUND" value="d43780" />
         <option name="EFFECT_COLOR" value="db312e" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="IVAR">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -1935,25 +1976,20 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
-    <option name="Map key">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Object">
-      <value>
-        <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -2047,6 +2083,11 @@
         <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Object">
+      <value>
+        <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
     <option name="PHP_BRACKETS">
@@ -2701,6 +2742,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SMARTY_IDENTIFIER">
+      <value>
+        <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
     <option name="SOY.BAD">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -2841,8 +2887,7 @@
       </value>
     </option>
     <option name="SQL_SYNTETIC_ENTITY">
-      <value>
-      </value>
+      <value />
     </option>
     <option name="SQL_TABLE">
       <value>
@@ -2862,168 +2907,163 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>
-      <option name="Scala Abstract class">
-        <value>
-          <option name="FOREGROUND" value="b58900" />
-        </value>
-      </option>
-      <option name="Scala Annotation name">
-        <value>
-          <option name="FOREGROUND" value="859900" />
-          <option name="EFFECT_TYPE" value="1" />
-        </value>
-      </option>
-      <option name="Scala Bad character">
-        <value>
-          <option name="FOREGROUND" value="d33682" />
-        </value>
-      </option>
-      <option name="Scala Block comment">
-        <value>
-          <option name="FOREGROUND" value="93a1a1" />
-          <option name="FONT_TYPE" value="2" />
-        </value>
-      </option>
-      <option name="Scala Class">
-        <value>
-          <option name="FOREGROUND" value="b58900" />
-        </value>
-      </option>
-      <option name="Scala Class method call">
-        <value>
-          <option name="FOREGROUND" value="268bd2" />
-        </value>
-      </option>
-      <option name="Scala Invalid escape in string">
-        <value>
-          <option name="FOREGROUND" value="d33682" />
-        </value>
-      </option>
-      <option name="Scala Keyword">
-        <value>
-          <option name="FOREGROUND" value="93a1a1" />
-          <option name="FONT_TYPE" value="1" />
-        </value>
-      </option>
-      <option name="Scala Line comment">
-        <value>
-          <option name="FOREGROUND" value="93a1a1" />
-          <option name="FONT_TYPE" value="2" />
-        </value>
-      </option>
-      <option name="Scala Local lazy val/var">
-        <value>
-          <option name="FOREGROUND" value="6c71c4" />
-        </value>
-      </option>
-      <option name="Scala Method declaration">
-        <value>
-          <option name="FOREGROUND" value="268bd2" />
-        </value>
-      </option>
-      <option name="Scala Number">
-        <value>
-          <option name="FOREGROUND" value="2aa198" />
-        </value>
-      </option>
-      <option name="Scala Object method call">
-        <value>
-          <option name="FOREGROUND" value="657b83" />
-          <option name="FONT_TYPE" value="2" />
-        </value>
-      </option>
-      <option name="Scala Parameter">
-        <value>
-          <option name="FOREGROUND" value="6c71c4" />
-        </value>
-      </option>
-      <option name="Scala Pattern value">
-        <value>
-          <option name="FOREGROUND" value="d33682" />
-        </value>
-      </option>
-      <option name="Scala Predefined types">
-        <value>
-          <option name="FOREGROUND" value="cb4b16" />
-        </value>
-      </option>
-      <option name="Scala Semicolon">
-        <value>
-          <option name="FOREGROUND" value="b58900" />
-        </value>
-      </option>
-      <option name="Scala String">
-        <value>
-          <option name="FOREGROUND" value="2aa198" />
-        </value>
-      </option>
-      <option name="Scala Template lazy val/var">
-        <value>
-          <option name="FOREGROUND" value="657b83" />
-          <option name="FONT_TYPE" value="3" />
-        </value>
-      </option>
-      <option name="Scala Template val">
-        <value>
-          <option name="FOREGROUND" value="657b83" />
-          <option name="FONT_TYPE" value="3" />
-        </value>
-      </option>
-      <option name="Scala Template var">
-        <value>
-          <option name="FOREGROUND" value="657b83" />
-          <option name="FONT_TYPE" value="3" />
-        </value>
-      </option>
-      <option name="Scala Trait">
-        <value>
-          <option name="FOREGROUND" value="b58900" />
-        </value>
-      </option>
-      <option name="Scala Type Alias">
-        <value>
-          <option name="FOREGROUND" value="cb4b16" />
-        </value>
-      </option>
-      <option name="Scala Type parameter">
-        <value>
-          <option name="FOREGROUND" value="268bd2" />
-        </value>
-      </option>
-      <option name="Scala Valid escape in string">
-        <value>
-          <option name="FOREGROUND" value="6c71c4" />
-          <option name="FONT_TYPE" value="1" />
-        </value>
-      </option>
-      <option name="Scala XML Text">
-        <value>
-          <option name="FOREGROUND" value="2aa198" />
-          <option name="FONT_TYPE" value="1" />
-        </value>
-      </option>
-      <option name="ScalaDoc comment">
-        <value>
-          <option name="FOREGROUND" value="93a1a1" />
-          <option name="FONT_TYPE" value="2" />
-        </value>
-      </option>
-      <option name="ScalaDoc comment tag">
-        <value>
-          <option name="FOREGROUND" value="859900" />
-          <option name="EFFECT_COLOR" value="73642" />
-          <option name="EFFECT_TYPE" value="1" />
-        </value>
-      </option>
-      <option name="SMARTY_IDENTIFIER">
-        <value>
-          <option name="BACKGROUND" value="eee8d5" />
-        </value>
-      </option>
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b58900" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Scala Abstract class">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="Scala Annotation name">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Scala Bad character">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="Scala Block comment">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Class">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="Scala Invalid escape in string">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="Scala Keyword">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Scala Line comment">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Local lazy val/var">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="Scala Method declaration">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="Scala Number">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Scala Parameter">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="Scala Pattern value">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="Scala Predefined types">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="Scala Semicolon">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="Scala String">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="Scala Template lazy val/var">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="Scala Template val">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="Scala Template var">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="Scala Trait">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="Scala Type Alias">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="Scala Type parameter">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="Scala Valid escape in string">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Scala XML Text">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ScalaDoc comment">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ScalaDoc comment tag">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="EFFECT_COLOR" value="73642" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Special symbol">
@@ -3138,6 +3178,57 @@
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
+    <option name="TWIG_BACKGROUND">
+      <value />
+    </option>
+    <option name="TWIG_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="TWIG_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="TWIG_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -3178,58 +3269,6 @@
     <option name="Type parameter">
       <value>
         <option name="FOREGROUND" value="2688d1" />
-      </value>
-    </option>
-    <option name="TWIG_BACKGROUND">
-      <value>
-      </value>
-    </option>
-    <option name="TWIG_BAD_CHARACTER">
-      <value>
-          <option name="EFFECT_COLOR" value="dc322f" />
-          <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TWIG_BRACKETS">
-      <value>
-          <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
-    <option name="TWIG_COMMENT">
-      <value>
-          <option name="FOREGROUND" value="93a1a1" />
-          <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TWIG_IDENTIFIER">
-      <value>
-          <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="TWIG_KEYWORD">
-      <value>
-          <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="TWIG_NUMBER">
-      <value>
-          <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="TWIG_OPERATION_SIGN">
-      <value>
-          <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="TWIG_STRING">
-      <value>
-          <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="TYPEDEF">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -3508,54 +3547,6 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="GHERKIN_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GHERKIN_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GHERKIN_PYSTRING">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="GHERKIN_REGEXP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_CELL">
-      <value>
-        <option name="FOREGROUND" value="297bde" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_HEADER_CELL">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_PIPE">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="GHERKIN_TAG">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
   </attributes>

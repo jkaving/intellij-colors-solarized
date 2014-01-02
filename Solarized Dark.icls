@@ -174,12 +174,6 @@
         <option name="BACKGROUND" value="73642" />
       </value>
     </option>
-    <option name="Block comment">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="BUILDOUT.KEY">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -201,6 +195,12 @@
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Block comment">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -330,11 +330,6 @@
     <option name="COFFEESCRIPT.SEMICOLON">
       <value>
         <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.STRING">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="COFFEESCRIPT.STRING">
@@ -814,7 +809,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -988,9 +983,55 @@
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
       </value>
     </option>
-    <option name="GQL_ID">
+    <option name="GHERKIN_COMMENT">
       <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="GHERKIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="GHERKIN_PYSTRING">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="GHERKIN_REGEXP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_CELL">
+      <value>
+        <option name="FOREGROUND" value="297bde" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_HEADER_CELL">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="GHERKIN_TAG">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="GQL_ID">
+      <value />
     </option>
     <option name="GQL_INT_LITERAL">
       <value>
@@ -1150,6 +1191,12 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="IVAR">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="Instance field">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1170,12 +1217,6 @@
         <option name="FOREGROUND" value="d43780" />
         <option name="EFFECT_COLOR" value="db312e" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="IVAR">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -1866,7 +1907,7 @@
     </option>
     <option name="MARKDOWN.BLOCK_QUOTE">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1926,7 +1967,7 @@
     </option>
     <option name="MARKDOWN.HRULE">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
@@ -1957,7 +1998,7 @@
     </option>
     <option name="MARKDOWN.QUOTE">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1969,13 +2010,13 @@
     </option>
     <option name="MARKDOWN.TABLE">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.VERBATIM">
       <value>
-        <option name="BACKGROUND" value="073642" />
+        <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1985,14 +2026,14 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
-    <option name="Map key">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -2000,11 +2041,6 @@
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Object">
-      <value>
-        <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -2098,6 +2134,11 @@
         <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Object">
+      <value>
+        <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
     <option name="PHP_BRACKETS">
@@ -2752,6 +2793,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SMARTY_IDENTIFIER">
+      <value>
+        <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
     <option name="SOY.BAD">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -3052,12 +3098,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-      <option name="Scala XML Text">
-        <value>
-          <option name="FOREGROUND" value="2aa198" />
-          <option name="FONT_TYPE" value="1" />
-        </value>
-      </option>
+    <option name="Scala XML Text">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ScalaDoc comment">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -3071,11 +3117,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="SMARTY_IDENTIFIER">
-      <value>
-        <option name="BACKGROUND" value="073642" />
-      </value>
-    </option>
     <option name="Special symbol">
       <value>
         <option name="FOREGROUND" value="2688cf" />
@@ -3084,7 +3125,7 @@
     </option>
     <option name="Standard function">
       <value>
-        <option name="FOREGROUND" value="B58900" />
+        <option name="FOREGROUND" value="b58900" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -3191,44 +3232,44 @@
     </option>
     <option name="TWIG_BAD_CHARACTER">
       <value>
-          <option name="EFFECT_COLOR" value="dc322f" />
-          <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="TWIG_BRACKETS">
       <value>
-          <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="TWIG_COMMENT">
       <value>
-          <option name="FOREGROUND" value="586e75" />
-          <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
       <value>
-          <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="TWIG_KEYWORD">
       <value>
-          <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="TWIG_NUMBER">
       <value>
-          <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="TWIG_OPERATION_SIGN">
       <value>
-          <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="TWIG_STRING">
       <value>
-          <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -3556,53 +3597,6 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="GHERKIN_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GHERKIN_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="GHERKIN_PYSTRING">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="GHERKIN_REGEXP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_CELL">
-      <value>
-        <option name="FOREGROUND" value="297bde" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_HEADER_CELL">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="GHERKIN_TABLE_PIPE">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="GHERKIN_TAG">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
   </attributes>

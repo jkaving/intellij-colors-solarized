@@ -24,6 +24,24 @@
     <option name="SELECTION_FOREGROUND" value="2b36" />
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="WHITESPACES" value="586e75" />
+    
+    <option name="FILESTATUS_ADDED" value="859900" />
+    <option name="FILESTATUS_DELETED" value="839496" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="839496" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="dc322f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="dc322f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="dc322f" />
+    <option name="FILESTATUS_MERGED" value="6c71c4" />
+    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="2aa198" />
+    <option name="FILESTATUS_UNKNOWN" value="dc322f" />
+    <option name="FILESTATUS_addedOutside" value="2aa198" />
+    <option name="FILESTATUS_changelistConflict" value="dc322f" />
+    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
+
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

@@ -167,6 +167,11 @@ Logcat</a></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>Jade</td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>Java</td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>

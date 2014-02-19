@@ -2450,8 +2450,8 @@
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="REGEXP.BAD_CHARACTER">
@@ -3210,8 +3210,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>

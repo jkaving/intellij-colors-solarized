@@ -299,7 +299,7 @@ Installation
 
 ### Option 1: Install using "Import Settings..."
 
-1. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory.
+1. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
  Click `OK` in the dialog that appears.
 
 2. Restart IntelliJ IDEA
@@ -314,12 +314,12 @@ color themes.
     is typically in:
 
     *Mac OS X*
-    * `~/Library/Preferences/IntelliJIdea12/colors` (IntelliJ IDEA 12 Ultimate Edition)
-    * `~/Library/Preferences/IdeaIC12/colors` (IntelliJ IDEA 12 Community Edition),
-    * `~/Library/Preferences/WebIDE50/colors` (PHPStorm 5.0).
+    * `~/Library/Preferences/IntelliJIdea13/colors` (IntelliJ IDEA 13 Ultimate Edition)
+    * `~/Library/Preferences/IdeaIC13/colors` (IntelliJ IDEA 13 Community Edition),
+    * `~/Library/Preferences/WebIDE70/colors` (PHPStorm 7.0).
 
     *Windows*
-    * `Documents and Settings/<user>/.IdeaIC12/config/colors` (IntelliJ IDEA 12 Community Edition)
+    * `Documents and Settings/<user>/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)
         
 2. Restart IntelliJ IDEA
 

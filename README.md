@@ -319,7 +319,7 @@ color themes.
     * `~/Library/Preferences/WebIDE70/colors` (PHPStorm 7.0).
 
     *Windows*
-    * `Documents and Settings/<user>/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)
+    * `%USERPROFILE%/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)
         
 2. Restart IntelliJ IDEA
 

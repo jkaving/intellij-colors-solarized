@@ -317,7 +317,7 @@ color themes.
     * `~/Library/Preferences/IntelliJIdea13/colors` (IntelliJ IDEA 13 Ultimate Edition)
     * `~/Library/Preferences/IdeaIC13/colors` (IntelliJ IDEA 13 Community Edition),
     * `~/Library/Preferences/WebIDE70/colors` (PHPStorm 7.0),
-    * `/Library/Preferences/WebStorm8/colors` (Webstorm 8.0).
+    * `~/Library/Preferences/WebStorm8/colors` (Webstorm 8.0).
 
     *Windows*
     * `%USERPROFILE%/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)

@@ -252,6 +252,11 @@ Logcat</a></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>Ruby</td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td><a href="http://sass-lang.com">SASS</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>

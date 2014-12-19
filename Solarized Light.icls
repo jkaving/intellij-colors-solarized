@@ -427,7 +427,9 @@
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
@@ -441,7 +443,9 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>

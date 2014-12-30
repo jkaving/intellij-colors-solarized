@@ -40,6 +40,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<th>Supported</th>
 		<th>Note</th>
 	</tr>
+    <tr>
+        <td>ActionScript</td>
+        <td align="center"><b>Yes</b></td>
+        <td>Only dark theme</td>
+    </tr>
 	<tr>
 		<td><a href="http://developer.android.com/tools/help/logcat.html">Android
 Logcat</a></td>

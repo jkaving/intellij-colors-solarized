@@ -1520,6 +1520,12 @@
         <option name="BACKGROUND" value="73642" />
       </value>
     </option>
+    <option name="JS.DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="dc322f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -1527,18 +1533,18 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="859900" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1562,7 +1568,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -1573,12 +1579,12 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1590,7 +1596,7 @@
     </option>
     <option name="JS.SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="JS.STRING">
@@ -3003,7 +3009,6 @@
     <option name="SPY-JS.VALUE_HINT">
       <value>
         <option name="EFFECT_COLOR" value="a9a9a9" />
-        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="SQL_BAD_CHARACTER">

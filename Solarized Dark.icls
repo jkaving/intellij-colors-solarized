@@ -2603,9 +2603,24 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="REGEXP.BRACES">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="REGEXP.COMMA">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="REGEXP.COMMENT">
@@ -2628,6 +2643,11 @@
       </value>
     </option>
     <option name="REGEXP.META">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>

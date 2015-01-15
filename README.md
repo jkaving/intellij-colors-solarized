@@ -184,7 +184,7 @@ Logcat</a></td>
 	<tr>
 		<td>JavaScript</td>
 		<td align="center"><b>Yes</b></td>
-		<td>Needs work - see <a href="/../../issues/81">issue #81</a></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>JSP</td>

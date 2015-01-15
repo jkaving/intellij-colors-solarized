@@ -169,6 +169,11 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="0" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="73642" />
@@ -1038,8 +1043,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -1076,8 +1081,8 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="GHERKIN_COMMENT">
@@ -1274,8 +1279,8 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="b58900" />
-        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1777,6 +1782,29 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ccffcc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffcccc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffffcc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="LOCALE.LINE_COMMENT">
@@ -2818,8 +2846,7 @@
       </value>
     </option>
     <option name="RUBY_PARAMETER_ID">
-      <value>
-      </value>
+      <value />
     </option>
     <option name="RUBY_REGEXP">
       <value>
@@ -3386,6 +3413,9 @@
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value />
+    </option>
     <option name="TWIG_BACKGROUND">
       <value />
     </option>
@@ -3500,8 +3530,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="b58900" />
-        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -3760,4 +3790,3 @@
     </option>
   </attributes>
 </scheme>
-

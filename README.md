@@ -72,6 +72,16 @@ Logcat</a></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>C</td>
+		<td align="center"><i>No</i></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>C++</td>
+		<td align="center"><i>No</i></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>CMD</td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>

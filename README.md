@@ -330,23 +330,32 @@ color themes.
 ### Option 2: Manual installation
 
 1.  Copy `Solarized Dark.xml` and `Solarized Light.xml` to your IntelliJ IDEA preferences
-    color directory. The directory varies, depending on which JetBrains IDE you are using. It
-    is typically in:
+    color directory. The directory varies, depending on which JetBrains IDE you are using. 
 
-    *Mac OS X*
-    * `~/Library/Preferences/IntelliJIdea13/colors` (IntelliJ IDEA 13 Ultimate Edition)
-    * `~/Library/Preferences/IdeaIC13/colors` (IntelliJ IDEA 13 Community Edition),
-    * `~/Library/Preferences/WebIDE70/colors` (PHPStorm 7.0),
-    * `~/Library/Preferences/WebIDE80/colors` (PHPStorm 8.0),
-    * `~/Library/Preferences/WebStorm8/colors` (Webstorm 8.0).
+    *The colors directory may need to be created.*
 
-    *Windows*
-    * `%USERPROFILE%/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)
-        
+    It is typically in:
+
+    **Mac OS X**
+    * `~/Library/Preferences/IntelliJIdea13/colors` [(IntelliJ IDEA 13 Ultimate Edition)][IntelliJ IDE settings],
+    * `~/Library/Preferences/IdeaIC13/colors` [(IntelliJ IDEA 13 Community Edition)][IntelliJ IDE settings],
+    * `~/Library/Preferences/WebIDE70/colors` [(PHPStorm 7.0)][PHPStorm IDE settings],
+    * `~/Library/Preferences/WebIDE80/colors` [(PHPStorm 8.0)][PHPStorm IDE settings],
+    * `~/Library/Preferences/WebStorm8/colors` [(WebStorm 8.0)][WebStorm IDE settings].
+
+    **Windows**
+    * `%USERPROFILE%\.IdeaIC13\config\colors` [(IntelliJ IDEA 13 Community Edition)][IntelliJ IDE settings],
+    * `%USERPROFILE%\.PyCharm40\config\colors` [(PyCharm 4.5 Community Edition)][PyCharm IDE settings].
+
 2. Restart IntelliJ IDEA
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new 
 color themes.
+
+[IntelliJ IDE settings]: https://www.jetbrains.com/idea/help/project-and-ide-settings.html
+[PHPStorm IDE settings]: https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html
+[PyCharm IDE settings]: https://www.jetbrains.com/pycharm/help/project-and-ide-settings.html
+[WebStorm IDE settings]: https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html
 
 Darcula
 -------

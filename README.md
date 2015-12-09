@@ -329,7 +329,7 @@ color themes.
 
 ### Option 2: Manual installation
 
-1.  Copy `Solarized Dark.xml` and `Solarized Light.xml` to your IntelliJ IDEA preferences
+1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA preferences
     color directory. The directory varies, depending on which JetBrains IDE you are using.
 
     *The colors directory may need to be created.*
@@ -345,7 +345,7 @@ color themes.
 
     **Linux**
     * `~/.<PRODUCT><VERSION>/colors` Generic path,
-    * `~/.IntelliJIdeaXX/colors` [(IntelliJ IDEA)][IntelliJ IDE settings],
+    * `~/.IdeaICXX/config/colors` [(IntelliJ IDEA)][IntelliJ IDE settings],
     * `~/.PyCharmXX/colors` [(PyCharm)][PyCharm IDE settings].
 
     **Windows**
@@ -381,6 +381,6 @@ after adding the color schemes to your IntelliJ IDEA installation.
 
 Note About Committing Changes
 -----------------------------
-If you want to commit updates to the XML color scheme files, make sure to run the `buildjar.sh` script before committing to generate
+If you want to commit updates to the ICLS color scheme files, make sure to run the `buildjar.sh` script before committing to generate
 an updated `settings.jar` file as well.
 *The script has been tested on OS X, on other operating systems you're on your own.*

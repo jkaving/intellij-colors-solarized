@@ -3124,6 +3124,12 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>

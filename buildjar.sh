@@ -14,6 +14,9 @@ function createDarculaVersion {
   # Remove any existing FILESTATUS elements
   sed -i'.orig' -e '/<option name="FILESTATUS_/d' "${2}"
 
+  # Replace the notification background
+  sed -i'.orig' -e 's/<option name="NOTIFICATION_BACKGROUND.*$/<option name="NOTIFICATION_BACKGROUND" value="73642" \/>/' "${2}"
+
   # Insert the FILESTATUS colors from the original Darcula scheme
   sed -i'.orig' -e '/<option name="CONSOLE_BACKGROUND_KEY/a\
 \    <option name="FILESTATUS_ADDED" value="629755" />\

@@ -1249,7 +1249,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ccccff" />
-        <option name="ERROR_STRIPE_COLOR" value="ccccff" />
+        <option name="ERROR_STRIPE_COLOR" value="96ccff" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -3471,7 +3471,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffcce5" />
-        <option name="ERROR_STRIPE_COLOR" value="ffcce5" />
+        <option name="ERROR_STRIPE_COLOR" value="ff82ce" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

@@ -2320,9 +2320,29 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="PHP_KEYWORD">

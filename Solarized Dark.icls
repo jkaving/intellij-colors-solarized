@@ -111,7 +111,7 @@
     </option>
     <option name="BASH.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -196,7 +196,7 @@
     </option>
     <option name="Block comment">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -455,7 +455,7 @@
     </option>
     <option name="CSS.COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -703,7 +703,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -779,7 +779,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1237,7 +1237,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1350,12 +1350,13 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -1380,7 +1381,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2398,7 +2399,7 @@
     </option>
     <option name="PROPERTIES.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
@@ -2425,7 +2426,7 @@
     </option>
     <option name="PROPS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2656,7 +2657,7 @@
     </option>
     <option name="REGEXP.COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3081,7 +3082,7 @@
     </option>
     <option name="SQL_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3593,7 +3594,7 @@
     </option>
     <option name="XML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">

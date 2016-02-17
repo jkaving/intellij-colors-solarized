@@ -2462,6 +2462,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />

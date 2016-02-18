@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Solarized Dark" version="1" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />

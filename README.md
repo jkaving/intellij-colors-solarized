@@ -337,8 +337,8 @@ color themes.
     It is typically in:
 
     **Mac OS X**
-    * `~/Library/Preferences/IntelliJIdea13/colors` [(IntelliJ IDEA 13 Ultimate Edition)][IntelliJ IDE settings],
-    * `~/Library/Preferences/IdeaIC13/colors` [(IntelliJ IDEA 13 Community Edition)][IntelliJ IDE settings],
+    * `~/Library/Preferences/IntelliJIdeaXX/colors` [(IntelliJ IDEA Ultimate Edition)][IntelliJ IDE settings],
+    * `~/Library/Preferences/IdeaICXX/colors` [(IntelliJ IDEA Community Edition)][IntelliJ IDE settings],
     * `~/Library/Preferences/WebIDE70/colors` [(PHPStorm 7.0)][PHPStorm IDE settings],
     * `~/Library/Preferences/WebIDE80/colors` [(PHPStorm 8.0)][PHPStorm IDE settings],
     * `~/Library/Preferences/WebStorm8/colors` [(WebStorm 8.0)][WebStorm IDE settings].
@@ -349,7 +349,7 @@ color themes.
     * `~/.PyCharmXX/colors` [(PyCharm)][PyCharm IDE settings].
 
     **Windows**
-    * `%USERPROFILE%\.IdeaIC13\config\colors` [(IntelliJ IDEA 13 Community Edition)][IntelliJ IDE settings],
+    * `%USERPROFILE%\.IdeaICXX\config\colors` [(IntelliJ IDEA Community Edition)][IntelliJ IDE settings],
     * `%USERPROFILE%\.PyCharm40\config\colors` [(PyCharm 4.5 Community Edition)][PyCharm IDE settings].
 
 2. Restart IntelliJ IDEA

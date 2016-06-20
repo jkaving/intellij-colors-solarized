@@ -2714,9 +2714,8 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="839496" />
-        <option name="EFFECT_TYPE" value="-1" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="73642" />
       </value>
     </option>
     <option name="REST.INLINE">

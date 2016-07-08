@@ -127,6 +127,11 @@ Logcat</a></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>ERB</td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	 </tr>
+	<tr>
 		<td><a href="http://www.erlang.org">Erlang</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>

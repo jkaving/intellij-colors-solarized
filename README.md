@@ -40,14 +40,13 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<th>Supported</th>
 		<th>Note</th>
 	</tr>
-  <tr>
-    <td>ActionScript</td>
-    <td align="center"><b>Yes</b></td>
-    <td></td>
-  </tr>
 	<tr>
-		<td><a href="http://developer.android.com/tools/help/logcat.html">Android
-Logcat</a></td>
+		<td>ActionScript</td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><a href="http://developer.android.com/tools/help/logcat.html">Android Logcat</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>
 	</tr>
@@ -127,6 +126,11 @@ Logcat</a></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>ERB</td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	 </tr>
+	<tr>
 		<td><a href="http://www.erlang.org">Erlang</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>
@@ -141,11 +145,11 @@ Logcat</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>
 	</tr>
-    <tr>
-        <td><a href="http://cukes.info">Gherkin (Cucumber)</a></td>
-        <td align="center"><b>Yes</b></td>
+		<tr>
+		<td><a href="http://cukes.info">Gherkin (Cucumber)</a></td>
+		<td align="center"><b>Yes</b></td>
 		<td></td>
-    </tr>
+		</tr>
 	<tr>
 		<td><a href="http://code.google.com/p/go/">Google Go</a></td>
 		<td align="center"><b>Yes</b></td>

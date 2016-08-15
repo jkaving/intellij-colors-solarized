@@ -109,12 +109,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="BASH.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="BASH.NUMBER">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -192,12 +186,6 @@
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="Block comment">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Brackets">
@@ -731,7 +719,8 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -741,8 +730,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="3d3d3d" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -787,7 +775,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="cb4b16" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -884,11 +872,6 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1139,11 +1122,6 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
-    <option name="Groovydoc comment">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
     <option name="Groovydoc tag">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1327,18 +1305,6 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
-    <option name="JAVA_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JAVA_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -1354,12 +1320,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="JAVA_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -1631,12 +1591,6 @@
     </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2330,11 +2284,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="PROPERTIES.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-      </value>
-    </option>
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -2355,12 +2304,6 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="PROPS.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="dc322f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PROPS.MACRO">
@@ -3186,12 +3129,6 @@
     <option name="Scala Bad character">
       <value>
         <option name="FOREGROUND" value="d33682" />
-      </value>
-    </option>
-    <option name="Scala Block comment">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Class">

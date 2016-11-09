@@ -1463,6 +1463,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="JS.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />

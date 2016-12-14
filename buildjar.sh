@@ -17,26 +17,9 @@ function createDarculaVersion {
   # Replace the notification background
   sed -i'.orig' -e 's/<option name="NOTIFICATION_BACKGROUND.*$/<option name="NOTIFICATION_BACKGROUND" value="73642" \/>/' "${2}"
 
-  # Insert the FILESTATUS colors from the original Darcula scheme
-  sed -i'.orig' -e '/<option name="CONSOLE_BACKGROUND_KEY/a\
-\    <option name="FILESTATUS_ADDED" value="629755" />\
-\    <option name="FILESTATUS_DELETED" value="6c6c6c" />\
-\    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />\
-\    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />\
-\    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />\
-\    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />\
-\    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />\
-\    <option name="FILESTATUS_MERGED" value="9876aa" />\
-\    <option name="FILESTATUS_MODIFIED" value="6897bb" />\
-\    <option name="FILESTATUS_NOT_CHANGED" value="" />\
-\    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />\
-\    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />\
-\    <option name="FILESTATUS_UNKNOWN" value="d1675a" />\
-\    <option name="FILESTATUS_addedOutside" value="629755" />\
-\    <option name="FILESTATUS_changelistConflict" value="d5756c" />\
-\    <option name="FILESTATUS_modifiedOutside" value="6897bb" />\
-' "${2}"
-  
+  # Use Darcula parent theme
+  sed -i'.orig' -e '/<scheme\>/ s/\<\(parent_scheme\)="[^"]*"/\1="Darcula"/' "${2}"
+
   rm "${2}.orig"
 }
 

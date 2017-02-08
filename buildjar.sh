@@ -20,6 +20,29 @@ function createDarculaVersion {
   # Use Darcula parent theme
   sed -i'.orig' -e 's/\(parent_scheme\)="[^"]*"/\1="Darcula"/' "${2}"
 
+  # Fix static methods
+  sed -i'.orig' -e 's/<\/attributes>/<option name="DEFAULT_STATIC_METHOD"><value><option name="FONT_TYPE" value="2" \/><\/value><\/option><\/attributes>/' "${2}"
+
+  # Special handling for Solarized Dark
+  if [[ ${2} =~ .*Dark.* ]]
+  then
+    # Function declarations
+    sed -i'.orig' -e 's/<\/attributes>/<option name="DEFAULT_FUNCTION_DECLARATION"><value><option name="FOREGROUND" value="839496" \/><\/value><\/option><\/attributes>/' "${2}"
+    # Instance methods
+    sed -i'.orig' -e 's/<\/attributes>/<option name="DEFAULT_INSTANCE_METHOD"><value><option name="FOREGROUND" value="839496" \/><\/value><\/option><\/attributes>/' "${2}"
+  fi
+
+  # Special handling for Solarized Light
+  if [[ ${2} =~ .*Light.* ]]
+  then
+    # Function declarations
+    sed -i'.orig' -e 's/<\/attributes>/<option name="DEFAULT_FUNCTION_DECLARATION"><value><option name="FOREGROUND" value="586E75" \/><\/value><\/option><\/attributes>/' "${2}"
+    # Instance methods
+    sed -i'.orig' -e 's/<\/attributes>/<option name="DEFAULT_INSTANCE_METHOD"><value><option name="FOREGROUND" value="586E75" \/><\/value><\/option><\/attributes>/' "${2}"
+    # Parameter hints
+    sed -i'.orig' -e 's/<\/attributes>/<option name="INLINE_PARAMETER_HINT"><value><option name="FOREGROUND" value="7A7A7A" \/><option name="BACKGROUND" value="EDEDED" \/><\/value><\/option><\/attributes>/' "${2}"
+  fi
+
   rm "${2}.orig"
 }
 

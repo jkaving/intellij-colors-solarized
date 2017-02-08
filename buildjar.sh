@@ -18,7 +18,7 @@ function createDarculaVersion {
   sed -i'.orig' -e 's/<option name="NOTIFICATION_BACKGROUND.*$/<option name="NOTIFICATION_BACKGROUND" value="73642" \/>/' "${2}"
 
   # Use Darcula parent theme
-  sed -i'.orig' -e '/<scheme\>/ s/\<\(parent_scheme\)="[^"]*"/\1="Darcula"/' "${2}"
+  sed -i'.orig' -e 's/\(parent_scheme\)="[^"]*"/\1="Darcula"/' "${2}"
 
   rm "${2}.orig"
 }

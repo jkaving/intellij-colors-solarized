@@ -276,6 +276,11 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<td></td>
 	</tr>
 	<tr>
+		<td><a href="http://www.rust-lang.org">Rust</a></td>
+		<td align="center"><b>Yes</b></td>
+		<td></td>
+	</tr>
+	<tr>
 		<td><a href="http://sass-lang.com">SASS</a></td>
 		<td align="center"><b>Yes</b></td>
 		<td></td>

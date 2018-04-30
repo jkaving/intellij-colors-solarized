@@ -333,8 +333,7 @@ Installation
 
 2. Restart IntelliJ IDEA
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
-color themes.
+3. Go to `File | Settings... | Editor | Color Scheme` and select one of the new color themes.
 
 ### Option 2: Manual installation
 

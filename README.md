@@ -335,19 +335,24 @@ Installation
 
 3. Restart IntelliJ IDEA
 
-4. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
-color themes.
+4. **macOS**   
+   * Go to `Preferences | Editor | Colors Scheme` and select one of the new color themes.
+
+   **Windows / Linux**   
+   * Go to `File | Settings... | Editor | Color Scheme` and select one of the new color themes.
 
 ### Option 2: Manual installation
 
-1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA preferences
+1. Clone this repository
+
+2.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA preferences
     color directory. The directory varies, depending on which JetBrains IDE you are using.
 
     *The colors directory may need to be created.*
 
     It is typically in:
 
-    **Mac OS X**
+    **macOS**
     * `~/Library/Preferences/IntelliJIdeaXX/colors` [(IntelliJ IDEA Ultimate Edition)][IntelliJ IDE settings],
     * `~/Library/Preferences/IdeaICXX/colors` [(IntelliJ IDEA Community Edition)][IntelliJ IDE settings],
     * `~/Library/Preferences/WebIDE70/colors` [(PHPStorm 7.0)][PHPStorm IDE settings],
@@ -363,10 +368,13 @@ color themes.
     * `%USERPROFILE%\.IdeaICXX\config\colors` [(IntelliJ IDEA Community Edition)][IntelliJ IDE settings],
     * `%USERPROFILE%\.PyCharm40\config\colors` [(PyCharm 4.5 Community Edition)][PyCharm IDE settings].
 
-2. Restart IntelliJ IDEA
+3. Restart IntelliJ IDEA
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
-color themes.
+4. **macOS**   
+   * Go to `Preferences | Editor | Colors Scheme` and select one of the new color themes.
+
+   **Windows / Linux**   
+   * Go to `File | Settings... | Editor | Color Scheme` and select one of the new color themes.
 
 [IntelliJ IDE settings]: https://www.jetbrains.com/idea/help/project-and-ide-settings.html
 [PHPStorm IDE settings]: https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html

@@ -328,12 +328,14 @@ Installation
 
 ### Option 1: Install using "Import Settings..."
 
-1. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
+1. Clone this repository
+
+2. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
  Click `OK` in the dialog that appears.
 
-2. Restart IntelliJ IDEA
+3. Restart IntelliJ IDEA
 
-3. **macOS**   
+4. **macOS**   
    * Go to `Preferences | Editor | Colors Scheme` and select one of the new color themes.
 
    **Windows / Linux**   
@@ -341,7 +343,9 @@ Installation
 
 ### Option 2: Manual installation
 
-1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA preferences
+1. Clone this repository
+
+2.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA preferences
     color directory. The directory varies, depending on which JetBrains IDE you are using.
 
     *The colors directory may need to be created.*
@@ -364,9 +368,9 @@ Installation
     * `%USERPROFILE%\.IdeaICXX\config\colors` [(IntelliJ IDEA Community Edition)][IntelliJ IDE settings],
     * `%USERPROFILE%\.PyCharm40\config\colors` [(PyCharm 4.5 Community Edition)][PyCharm IDE settings].
 
-2. Restart IntelliJ IDEA
+3. Restart IntelliJ IDEA
 
-3. **macOS**   
+4. **macOS**   
    * Go to `Preferences | Editor | Colors Scheme` and select one of the new color themes.
 
    **Windows / Linux**   

@@ -330,7 +330,7 @@ Installation
 
 1. Clone this repository
 
-2. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
+2. Go to `File | Settings... | Editor | Color Scheme`. Click the cogwheel next to the theme selelction box and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
  Click `OK` in the dialog that appears.
 
 3. Restart IntelliJ IDEA

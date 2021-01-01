@@ -828,6 +828,7 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -1642,11 +1643,6 @@
     <option name="KOTLIN_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="657b83" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_CONSTRUCTOR">
-      <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3135,19 +3131,12 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-      </value>
-    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d33682" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="STRUCT_LIKE">
       <value>

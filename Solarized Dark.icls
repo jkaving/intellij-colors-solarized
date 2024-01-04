@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Solarized Dark" version="1" parent_scheme="Default">
   <colors>
-    <option name="ADDED_LINES_COLOR" value="baffba" />
+    <option name="ADDED_LINES_COLOR" value="385c38" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="dc322f" />
@@ -11,7 +11,7 @@
     <option name="INDENT_GUIDE" value="73642" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
-    <option name="MODIFIED_LINES_COLOR" value="99ccff" />
+    <option name="MODIFIED_LINES_COLOR" value="374772" />
     <option name="NOTIFICATION_BACKGROUND" value="eee8d5" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
@@ -854,26 +854,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="800b09" />
-        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="BACKGROUND" value="45302b" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="4d1d08" />
-        <option name="ERROR_STRIPE_COLOR" value="4d1d08" />
+        <option name="BACKGROUND" value="484a4a" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="424d00" />
-        <option name="ERROR_STRIPE_COLOR" value="99ff99" />
+        <option name="BACKGROUND" value="294436" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="83f4d" />
-        <option name="ERROR_STRIPE_COLOR" value="99ccff" />
+        <option name="BACKGROUND" value="385570" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">

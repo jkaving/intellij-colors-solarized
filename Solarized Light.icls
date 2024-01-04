@@ -2638,13 +2638,6 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="REST.INTERPRETED">
-      <value>
-        <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="b58900" />
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
     <option name="REST.ITALIC">
       <value>
         <option name="FONT_TYPE" value="2" />

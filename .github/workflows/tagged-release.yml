@@ -19,7 +19,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Create settings.jar
-        run: buildjar.sh
+        run: ./buildjar.sh
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script

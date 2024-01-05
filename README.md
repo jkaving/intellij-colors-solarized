@@ -328,9 +328,9 @@ Installation
 
 ### Option 1: Install using "Import Settings..."
 
-1. Clone this repository
+1. Download the [latest version of `settings.jar`](/releases/latest/download/settings.jar) from the [releases page](/releases).
 
-2. Go to `File | Import Settings...` and specify the `intellij-colors-solarized` directory or the `settings.jar` file.
+2. Go to `File | Import Settings...` and select the downloaded `settings.jar` file.
  Click `OK` in the dialog that appears.
 
 3. Restart IntelliJ IDEA
@@ -397,9 +397,3 @@ Note About Fonts
 Unfortunately, font settings are included in the color settings files.
 You should probably modify these in `Preferences | Editor | Colors & Fonts | Font`
 after adding the color schemes to your IntelliJ IDEA installation.
-
-Note About Committing Changes
------------------------------
-If you want to commit updates to the ICLS color scheme files, make sure to run the `buildjar.sh` script before committing to generate
-an updated `settings.jar` file as well.
-*The script has been tested on OS X, on other operating systems you're on your own.*

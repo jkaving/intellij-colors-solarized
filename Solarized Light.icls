@@ -721,7 +721,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -741,7 +741,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -797,7 +797,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1640,12 +1640,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="657b83" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="KOTLIN_FUNCTION_CALL">
       <value />
     </option>
@@ -2454,7 +2448,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="6B95B3" />
+        <option name="FOREGROUND" value="6b95b3" />
       </value>
     </option>
     <option name="PY.STRING">

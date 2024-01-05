@@ -712,7 +712,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -732,7 +732,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -788,7 +788,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

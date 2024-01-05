@@ -2,3 +2,4 @@
 *.iml
 *.ipr
 *.iws
+/settings.jar

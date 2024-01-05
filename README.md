@@ -328,7 +328,7 @@ Installation
 
 ### Option 1: Install using "Import Settings..."
 
-1. Download the [latest version of `settings.jar`](/releases/latest/download/settings.jar) from the [releases page](/releases).
+1. Download the [latest version](https://github.com/jkaving/intellij-colors-solarized/releases/latest/download/settings.jar) of `settings.jar` from the [releases page](https://github.com/jkaving/intellij-colors-solarized/releases).
 
 2. Go to `File | Import Settings...` and select the downloaded `settings.jar` file.
  Click `OK` in the dialog that appears.
